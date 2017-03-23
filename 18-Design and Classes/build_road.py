@@ -20,10 +20,10 @@ import sys
 import time
 
 # make sure we can find our class files
-sys.path.append('C:/WORKSPACE/uky-transport-data-science/ce599-s17/18-Design and Classes/transport')
+sys.path.append('C:\Workspace\CE 599\ce599-s17\18-Design and Classes')
 
 # now our own specific imports
-from Road import Road
+from Road import Road 
 
 #----------------------------------------------------------------------------------------------------
 # User inputs next, so they are easy to find and change.
